@@ -12,6 +12,8 @@ User Stories:
 7. As a user I should be able to get the Wishlist option where I can add those products
 which I want but don’t want to order now.
 8. As a user I should get different discount coupons.
+
+
 Admin Stories –
 1. As an Admin I should be able to login, Logout and Register into the application.
 2. As an Admin I should be able to perform CRUD on Users.
