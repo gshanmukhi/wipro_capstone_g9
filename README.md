@@ -1,0 +1,1 @@
+The primary objective behind the Shop For Home project is to maintain the traditional way of shopping furnitures and home decors in this outbreak of novel Coronavirus all with the ease of shopping from home keeping the customer’s safety at utmost 
